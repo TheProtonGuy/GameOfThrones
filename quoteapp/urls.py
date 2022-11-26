@@ -3,4 +3,4 @@ from .views import HomePage
 
 urlpatterns = [
     path('', HomePage, name='home'),
-]
+] # discount ends monday
